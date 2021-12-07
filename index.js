@@ -29,7 +29,7 @@ var questions=[{
     question:"Who is the first president of India? \n A.Dr Rajendra Prasad \n B. Modi \n",
     answer:"Dr Rajendra Prasad"
 },{
-    question:"Where am I from? \n A.Pune \n B.Mumbai\n",
+    question:"Which city is the financial capital of india? \n A.Pune \n B.Mumbai\n",
     answer:"Mumbai"
 }]
 
