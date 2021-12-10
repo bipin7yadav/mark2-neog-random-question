@@ -31,6 +31,12 @@ var questions=[{
 },{
     question:"Which city is the financial capital of india? \n A.Pune \n B.Mumbai\n",
     answer:"Mumbai"
+},{
+    question:"What is the name of the biggest planet in our solar system? \n A.Earth \n B.Jupiter \n C.Mars \n D.Mercury",
+    answer:"Jupiter"
+},{
+    question:"Who invented the computer? \n A.James watt \n B.Neil Bohr \n C.Charles Babbage \n D.Alexander Graham Bell",
+    answer:"Charles Babbage"
 }]
 
 var highscore=[{
